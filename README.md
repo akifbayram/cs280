@@ -1,2 +1,2 @@
-# cs280
-CS280 Coursework
+# CS280 Weekly Coursework
+CS280 Weekly Coursework
