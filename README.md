@@ -1,2 +1,2 @@
-# CS280 Weekly Coursework
-CS280 Weekly Coursework
+# Programming Lannguage Concepts Coursework
+Programming language concepts weekly coursework
