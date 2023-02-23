@@ -1,0 +1,29 @@
+Number of words in the file: 25
+Number of words with no vowels in the file: 25
+Number of words with one vowel in the file: 0
+Number of words with two vowels in the file: 0
+Number of words with three or more vowels in the file: 0
+
+List of Words with no vowels and their number of occurrences:
+!!!: 1
+##: 1
+*: 1
++: 1
+-: 1
+/: 1
+0.45: 1
+100: 1
+1025: 2
+1234: 1
+125: 1
+278: 1
+3456: 1
+4321: 1
+45: 2
+45%: 1
+<: 1
+=: 2
+==: 1
+>: 1
+???: 1
+@: 1
