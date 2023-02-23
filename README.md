@@ -1,2 +1,2 @@
-# Programming Lannguage Concepts Coursework
+# Programming Language Concepts Coursework
 Programming language concepts weekly coursework
